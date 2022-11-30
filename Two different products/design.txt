@@ -1,0 +1,10 @@
+Table: products
++-----------------+---------+
+| Column Name     | Type    |
++-----------------+---------+
+|product_id       |int      |      
+|product_class_id |int      |  
+|brand_name       |var      |  
+|product_name     |var      |  
+|price            |dec      |  
++-----------------+---------+
