@@ -1,0 +1,10 @@
+Table: bids
++--------------+-----------+
+| Column Name  | Type      |
++--------------+-----------+    
+|bid_id        |var        |  
+|customer_id   |int        |
+|order_datetime|TIMESTAMP  |
+|item_id       |var        |
+|order_quantity|int        |
++--------------+-----------+
