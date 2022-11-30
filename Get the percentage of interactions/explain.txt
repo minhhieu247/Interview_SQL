@@ -1,0 +1,3 @@
+Chúng tôi sử dụng current_date để đánh dấu ngày hiện tại và trừ 1 để nói “đã xảy ra vào ngày cuối cùng”.
+Chúng tôi đang sử dụng UNION ALL để kết hợp kết quả của cả hai truy vấn (vì chúng có cùng cột) thành một kết quả mà không xóa các kết quả trùng lặp.
+Kết quả sẽ là một bảng kết hợp của cả hai truy vấn, lấy dữ liệu cho người dùng được liệt kê trong cả cột usera và userb.
